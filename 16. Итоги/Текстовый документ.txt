@@ -1,0 +1,27 @@
+обсуждение пройденных тем, вопросы которые могут встретиться на собеседовании
+
+
+
+Дополнительно:
+
+Альтернативные способы реализации инкапсуляции
+
+Декораторы
+
+Карринг
+
+Замыкание (повторение)
+
+Упаковка и распаковка данных в функциях
+
+Дополнительные примеры
+
+
+
+https://www.geeksforgeeks.org/difference-between-and-is-operator-in-python/
+
+https://www.pythontutorial.net/python-oop/python-__new__/
+
+https://www.geeksforgeeks.org/class-method-vs-static-method-python/
+
+https://sparkbyexamples.com/python/python-difference-between-staticmethod-and-classmethod/?expand_article=1
