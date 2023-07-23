@@ -1,0 +1,13 @@
+1. Исключения, типы исключений
+
+2. Решение Git merge conflicts
+
+
+
+https://stackoverflow.com/questions/21756614/difference-between-git-merge-origin-master-and-git-pull
+
+https://www.jetbrains.com/help/pycharm/resolving-conflicts.html#distributed-version-control-systems
+
+https://www.jetbrains.com/help/pycharm/debugging-your-first-python-application.html
+
+https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.html
