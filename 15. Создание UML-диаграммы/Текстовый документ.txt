@@ -1,0 +1,9 @@
+Виды UML диаграмм
+
+Примеры использования
+
+
+
+желательно скачать https://staruml.io/download
+
+для создания диаграмм можно использовать сайт https://creately.com/lp/uml-diagram-tool/
