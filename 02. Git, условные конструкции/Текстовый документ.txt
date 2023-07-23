@@ -1,0 +1,29 @@
+1. Git и Git flow
+
+2. Условные операторы
+
+3. Условные конструкции
+
+
+
+Скачать и установить:
+
+https://git-scm.com/downloads
+
+Windows: http://gitextensions.github.io/
+
+Windows/Mac: https://www.sourcetreeapp.com/ или https://desktop.github.com/ или https://www.gitkraken.com/jc
+
+
+
+Туториалы:
+
+https://www.w3schools.com/git/
+
+https://www.atlassian.com/git/tutorials
+
+https://githowto.com/setup
+
+https://www.tutorialspoint.com/git/index.htm
+
+https://opensource.com/article/18/1/step-step-guide-git
